@@ -1,0 +1,7 @@
+{
+  "github.codespaces.defaultExtensions": [
+    "llvm-vs-code-extensions.vscode-clangd",
+    "sigbots.pros",
+    "jeff-hykin.better-cpp-syntax",
+  ]
+}
